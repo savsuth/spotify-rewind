@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Spotify Rewind</title>
+  <meta name="description" content="A personal five-year music retrospective built from a Spotify extended streaming history export.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Anybody:wdth,wght@50..150,400..900&family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600;700;800&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#controls">Skip to story controls</a>
+  <div class="backdrop" aria-hidden="true"></div>
+  <div class="shell">
+    <button type="button" id="btn-prev" class="side-nav prev" aria-label="Previous scene"><span aria-hidden="true">&#8249;</span></button>
+
+    <div class="card">
+      <header class="topbar">
+        <ol id="progress" class="progress" aria-label="Scenes"></ol>
+        <div id="controls" class="controls" role="toolbar" aria-label="Story controls">
+          <button type="button" id="btn-chapter" class="pill" aria-haspopup="dialog">
+            <span class="visually-hidden">Choose chapter. Current: </span><span id="chapter-name">All years</span>
+          </button>
+          <span class="spacer"></span>
+          <button type="button" id="btn-method" class="pill" aria-haspopup="dialog" aria-label="How calculated">How<span class="wide"> calculated</span></button>
+          <button type="button" id="btn-pace" class="pill" aria-pressed="false" aria-label="Slower pace">Slower</button>
+          <button type="button" id="btn-pause" class="pill round" aria-pressed="false" aria-label="Pause story"><span class="ico" aria-hidden="true"></span><span class="visually-hidden lbl">Pause</span></button>
+        </div>
+        <p id="status" class="status" aria-live="polite"></p>
+      </header>
+
+      <main id="stage" class="stage" aria-live="off"></main>
+    </div>
+
+    <button type="button" id="btn-next" class="side-nav next" aria-label="Next scene"><span aria-hidden="true">&#8250;</span></button>
+  </div>
+
+  <p class="hint">Arrow keys move, Space pauses, I opens How calculated. Personal project built from a data export. Not affiliated with Spotify.</p>
+  <p id="live" class="visually-hidden" aria-live="polite" aria-atomic="true"></p>
+
+  <dialog id="method" aria-labelledby="method-title">
+    <div class="dlg">
+      <p class="dlg-kicker">How calculated</p>
+      <h2 id="method-title" tabindex="-1" autofocus></h2>
+      <p id="method-period" class="dlg-period"></p>
+      <p id="method-text"></p>
+      <figure id="method-chart" class="chart-card" hidden></figure>
+      <table class="evidence">
+        <caption class="visually-hidden">Evidence for this scene</caption>
+        <thead><tr><th scope="col">Item</th><th scope="col">Value</th><th scope="col">Source</th></tr></thead>
+        <tbody id="method-evidence"></tbody>
+      </table>
+      <p class="dlg-foot">The story is paused while this is open. Close it to continue from the same point.
+        Full method: <code>outputs/methodology.md</code>.</p>
+      <button type="button" id="method-close" class="pill solid">Close and continue</button>
+    </div>
+  </dialog>
+
+  <dialog id="chart" aria-labelledby="chart-title">
+    <div class="dlg">
+      <p class="dlg-kicker">The chart</p>
+      <h2 id="chart-title" tabindex="-1" autofocus></h2>
+      <figure id="chart-figure" class="chart-card"></figure>
+      <p class="dlg-foot">Drawn with the diagram-design skill and checked by its validators. The story is paused while this is open.</p>
+      <button type="button" id="chart-close" class="pill solid">Close and continue</button>
+    </div>
+  </dialog>
+
+  <dialog id="picker" aria-labelledby="picker-title">
+    <div class="dlg">
+      <h2 id="picker-title" tabindex="-1" autofocus>Choose a chapter</h2>
+      <ul id="picker-list" class="picker-list"></ul>
+      <button type="button" id="picker-close" class="pill">Cancel</button>
+    </div>
+  </dialog>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

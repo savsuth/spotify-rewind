@@ -1,0 +1,75 @@
+<svg viewBox="0 0 360 352" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="clock-2023-title clock-2023-desc" data-chart="clock-2023" data-polar-chart="" data-polar-cx="180" data-polar-cy="164" data-polar-radius="80" data-polar-min="0" data-polar-max="40" data-polar-start-angle="-90" data-polar-clockwise="true" data-polar-radius-encoding="linear" data-polar-inner-radius="0">
+<title id="clock-2023-title">Listening clock, 2023</title>
+<desc id="clock-2023-desc">Polar chart of the share of music minutes in each 3-hour local window for 2023, clockwise from 00–03 at the top; the peak window is 18–21 at 35.1%.</desc>
+<rect data-polar-background="" width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="28" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">% OF MUSIC MINUTES · 0–40</text>
+<circle data-polar-ring="" cx="180" cy="164" r="16" fill="none" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<circle data-polar-ring="" cx="180" cy="164" r="32" fill="none" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<circle data-polar-ring="" cx="180" cy="164" r="48" fill="none" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<circle data-polar-ring="" cx="180" cy="164" r="64" fill="none" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<circle data-polar-ring="" cx="180" cy="164" r="80" fill="none" stroke="rgba(245,245,245,0.2)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="0" x1="180" y1="164" x2="180" y2="84" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="1" x1="180" y1="164" x2="236.569" y2="107.431" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="2" x1="180" y1="164" x2="260" y2="164" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="3" x1="180" y1="164" x2="236.569" y2="220.569" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="4" x1="180" y1="164" x2="180" y2="244" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="5" x1="180" y1="164" x2="123.431" y2="220.569" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="6" x1="180" y1="164" x2="100" y2="164" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<line data-polar-spoke="" data-polar-index="7" x1="180" y1="164" x2="123.431" y2="107.431" stroke="rgba(245,245,245,0.16)" stroke-width="0.8"/>
+<text x="172" y="151" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">8</text>
+<text x="172" y="135" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">16</text>
+<text x="172" y="119" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">24</text>
+<text x="172" y="103" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">32</text>
+<text x="172" y="87" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">40</text>
+<text x="188" y="167" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">0</text>
+<g data-polar-category="00–03" data-polar-index="0" data-polar-value="3.8">
+<line data-polar-ray="" x1="180" y1="164" x2="180" y2="156.4" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="180" cy="156.4" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="180" y="56" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="middle">00–03</text>
+<text data-polar-value-label="" x="180" y="40" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">3.8</text>
+</g>
+<g data-polar-category="03–06" data-polar-index="1" data-polar-value="0.9">
+<line data-polar-ray="" x1="180" y1="164" x2="181.273" y2="162.727" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="181.273" cy="162.727" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="256.368" y="87.6325" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">03–06</text>
+<text data-polar-value-label="" x="267.681" y="76.319" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="start">0.9</text>
+</g>
+<g data-polar-category="06–09" data-polar-index="2" data-polar-value="5.2">
+<line data-polar-ray="" x1="180" y1="164" x2="190.4" y2="164" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="190.4" cy="164" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="288" y="164" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">06–09</text>
+<text data-polar-value-label="" x="304" y="164" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="start" dy="16">5.2</text>
+</g>
+<g data-polar-category="09–12" data-polar-index="3" data-polar-value="10.5">
+<line data-polar-ray="" x1="180" y1="164" x2="194.849" y2="178.849" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="194.849" cy="178.849" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="256.368" y="240.368" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">09–12</text>
+<text data-polar-value-label="" x="267.681" y="251.681" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="start" dy="12">10.5</text>
+</g>
+<g data-polar-category="12–15" data-polar-index="4" data-polar-value="13.7">
+<line data-polar-ray="" x1="180" y1="164" x2="180" y2="191.4" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="180" cy="191.4" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="180" y="272" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="middle">12–15</text>
+<text data-polar-value-label="" x="180" y="288" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">13.7</text>
+</g>
+<g data-polar-category="15–18" data-polar-index="5" data-polar-value="16.7">
+<line data-polar-ray="" x1="180" y1="164" x2="156.383" y2="187.617" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="156.383" cy="187.617" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="103.632" y="240.368" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">15–18</text>
+<text data-polar-value-label="" x="92.319" y="251.681" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end" dy="12">16.7</text>
+</g>
+<g data-polar-category="18–21" data-polar-index="6" data-polar-value="35.1" data-polar-focal="true">
+<line data-polar-ray="" x1="180" y1="164" x2="109.8" y2="164" stroke="#f08a59" stroke-width="2.4"/>
+<circle data-polar-marker="" cx="109.8" cy="164" r="5" fill="#2d3142" stroke="#f08a59" stroke-width="1.2"/>
+<text x="72" y="164" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">18–21</text>
+<text data-polar-value-label="" x="56" y="164" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end" dy="16">35.1</text>
+</g>
+<g data-polar-category="21–24" data-polar-index="7" data-polar-value="14">
+<line data-polar-ray="" x1="180" y1="164" x2="160.201" y2="144.201" stroke="#bfc0c0" stroke-width="2"/>
+<circle data-polar-marker="" cx="160.201" cy="144.201" r="4" fill="#2d3142" stroke="#bfc0c0" stroke-width="1.2"/>
+<text x="103.632" y="87.6325" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">21–24</text>
+<text data-polar-value-label="" x="92.319" y="76.319" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">14</text>
+</g>
+<line data-polar-rule="" x1="40" y1="316" x2="320" y2="316" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="334" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.08em">Local time. Offline plays excluded. Peak window highlighted.</text>
+</svg>

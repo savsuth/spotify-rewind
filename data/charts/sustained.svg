@@ -1,0 +1,43 @@
+<svg viewBox="0 0 360 312" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="sustained-title sustained-desc" data-chart="sustained">
+<title id="sustained-title">Neon Season: share of music time</title>
+<desc id="sustained-desc">Line chart of Neon Season&#x27;s share of music minutes in each half-year from 2022-H2 to 2025-H1.</desc>
+<rect width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">% OF MINUTES</text>
+<line x1="72" y1="200.0" x2="312" y2="200.0" stroke="rgba(245,245,245,0.2)" stroke-width="1"/>
+<text x="64" y="203" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">0</text>
+<line x1="72" y1="149.3" x2="312" y2="149.3" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="152.333" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">10</text>
+<line x1="72" y1="98.7" x2="312" y2="98.7" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="101.667" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">20</text>
+<line x1="72" y1="48.0" x2="312" y2="48.0" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="51" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">30</text>
+<text x="72" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H2</text>
+<text x="72" y="226" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">2022</text>
+<text x="120" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H1</text>
+<text x="120" y="226" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">2023</text>
+<text x="168" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H2</text>
+<text x="216" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H1</text>
+<text x="216" y="226" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">2024</text>
+<text x="264" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H2</text>
+<text x="312" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">H1</text>
+<text x="312" y="226" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">2025</text>
+<g data-reveal="1" data-series="Neon Season">
+<polygon points="72.0,150.9 120.0,74.3 168.0,180.7 216.0,200.0 264.0,200.0 312.0,200.0 312.0,200 72.0,200" fill="rgba(240,138,89,0.08)"/>
+<polyline points="72.0,150.9 120.0,74.3 168.0,180.7 216.0,200.0 264.0,200.0 312.0,200.0" fill="none" stroke="#f08a59" stroke-width="1.8" stroke-linejoin="round"/>
+</g>
+<g data-reveal="2">
+<circle cx="72.0" cy="150.9" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2022-H2" data-value="9.7"/>
+<circle cx="120.0" cy="74.3" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-H1" data-value="24.8"/>
+<circle cx="168.0" cy="180.7" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-H2" data-value="3.8"/>
+<circle cx="216.0" cy="200.0" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2024-H1" data-value="0.0"/>
+<circle cx="264.0" cy="200.0" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2024-H2" data-value="0.0"/>
+<circle cx="312.0" cy="200.0" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2025-H1" data-value="0.0"/>
+<text x="120" y="64.3467" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-peak="1">24.8</text>
+</g>
+<line x1="40" y1="248" x2="320" y2="248" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="264" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+<line x1="40" y1="278" x2="64" y2="278" stroke="#f08a59" stroke-width="1.8"/>
+<circle cx="52" cy="278" r="4" fill="#f08a59"/>
+<text x="72" y="281" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">Neon Season</text>
+<text x="40" y="300" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">Share of music minutes per half-year. * incomplete half-year.</text>
+</svg>

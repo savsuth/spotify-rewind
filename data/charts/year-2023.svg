@@ -1,0 +1,54 @@
+<svg viewBox="0 0 360 312" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="year-2023-title year-2023-desc" data-chart="year-2023">
+<title id="year-2023-title">2023: music minutes per day, by month</title>
+<desc id="year-2023-desc">Line chart of average music minutes per covered day in each month of 2023.</desc>
+<rect width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">MIN / DAY</text>
+<line x1="72" y1="200.0" x2="312" y2="200.0" stroke="rgba(245,245,245,0.2)" stroke-width="1"/>
+<text x="64" y="203" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">0</text>
+<line x1="72" y1="162.0" x2="312" y2="162.0" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="165" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">25</text>
+<line x1="72" y1="124.0" x2="312" y2="124.0" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="127" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">50</text>
+<line x1="72" y1="86.0" x2="312" y2="86.0" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="89" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">75</text>
+<line x1="72" y1="48.0" x2="312" y2="48.0" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="64" y="51" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="end">100</text>
+<text x="72" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">J</text>
+<text x="72" y="226" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">’23</text>
+<text x="93.8182" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">F</text>
+<text x="115.636" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">M</text>
+<text x="137.455" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">A</text>
+<text x="159.273" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">M</text>
+<text x="181.091" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">J</text>
+<text x="202.909" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">J</text>
+<text x="224.727" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">A</text>
+<text x="246.545" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">S</text>
+<text x="268.364" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">O</text>
+<text x="290.182" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">N</text>
+<text x="312" y="214" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">D</text>
+<g data-reveal="1" data-series="2023">
+<polygon points="72.0,91.8 93.8,95.1 115.6,89.5 137.5,88.6 159.3,85.5 181.1,82.0 202.9,87.8 224.7,88.7 246.5,85.8 268.4,86.2 290.2,67.8 312.0,82.0 312.0,200 72.0,200" fill="rgba(240,138,89,0.08)"/>
+<polyline points="72.0,91.8 93.8,95.1 115.6,89.5 137.5,88.6 159.3,85.5 181.1,82.0 202.9,87.8 224.7,88.7 246.5,85.8 268.4,86.2 290.2,67.8 312.0,82.0" fill="none" stroke="#f08a59" stroke-width="1.8" stroke-linejoin="round"/>
+</g>
+<g data-reveal="2">
+<circle cx="72.0" cy="91.8" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-01" data-value="71.2"/>
+<circle cx="93.8" cy="95.1" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-02" data-value="69.0"/>
+<circle cx="115.6" cy="89.5" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-03" data-value="72.7"/>
+<circle cx="137.5" cy="88.6" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-04" data-value="73.3"/>
+<circle cx="159.3" cy="85.5" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-05" data-value="75.3"/>
+<circle cx="181.1" cy="82.0" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-06" data-value="77.6"/>
+<circle cx="202.9" cy="87.8" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-07" data-value="73.8"/>
+<circle cx="224.7" cy="88.7" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-08" data-value="73.2"/>
+<circle cx="246.5" cy="85.8" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-09" data-value="75.1"/>
+<circle cx="268.4" cy="86.2" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-10" data-value="74.9"/>
+<circle cx="290.2" cy="67.8" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-11" data-value="87.0"/>
+<circle cx="312.0" cy="82.0" r="4" fill="#f08a59" stroke="#f08a59" stroke-width="1.5" data-point="2023-12" data-value="77.6"/>
+<text x="282.182" y="57.76" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="end" data-peak="1">87</text>
+</g>
+<line x1="40" y1="248" x2="320" y2="248" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="264" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+<line x1="40" y1="278" x2="64" y2="278" stroke="#f08a59" stroke-width="1.8"/>
+<circle cx="52" cy="278" r="4" fill="#f08a59"/>
+<text x="72" y="281" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">2023</text>
+<text x="40" y="300" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">Minutes / covered days in the month. * partial or low-activity month.</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg viewBox="0 0 360 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="eras-title eras-desc" data-chart="eras">
+<title id="eras-title">Musical eras detected by PELT</title>
+<desc id="eras-desc">Timeline of 5 listening eras from 2022-03 to 2025-06, each labelled with its defining artist.</desc>
+<rect width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA</text>
+<text x="132" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">MONTHS IN EXPORT</text>
+<line x1="132.0" y1="52" x2="132.0" y2="264" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="134" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">’22</text>
+<line x1="179.0" y1="52" x2="179.0" y2="264" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="181" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">’23</text>
+<line x1="235.4" y1="52" x2="235.4" y2="264" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="237.4" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">’24</text>
+<line x1="291.8" y1="52" x2="291.8" y2="264" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="293.8" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">’25</text>
+<line x1="132" y1="56" x2="320" y2="56" stroke="rgba(245,245,245,0.15)" stroke-width="0.8"/>
+<g data-reveal="1" data-era="era-1" data-start="2022-03" data-end="2022-10">
+<text x="40" y="74" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA 1</text>
+<text x="40" y="88" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Glass Saints</text>
+<rect x="132.0" y="68" width="37.6" height="24" rx="4" fill="#2d3142"/>
+<rect x="132.0" y="68" width="37.6" height="24" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+</g>
+<g data-reveal="2" data-era="era-2" data-start="2022-11" data-end="2023-07">
+<text x="40" y="114" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA 2</text>
+<text x="40" y="128" fill="#f08a59" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Neon Season</text>
+<rect x="169.6" y="108" width="42.3" height="24" rx="4" fill="#2d3142"/>
+<rect x="169.6" y="108" width="42.3" height="24" rx="4" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+</g>
+<g data-reveal="3" data-era="era-3" data-start="2023-08" data-end="2024-03">
+<text x="40" y="154" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA 3</text>
+<text x="40" y="168" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Quiet Tapes</text>
+<rect x="211.9" y="148" width="37.6" height="24" rx="4" fill="#2d3142"/>
+<rect x="211.9" y="148" width="37.6" height="24" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+</g>
+<g data-reveal="4" data-era="era-4" data-start="2024-04" data-end="2024-11">
+<text x="40" y="194" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA 4</text>
+<text x="40" y="208" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Golden Echoes</text>
+<rect x="249.5" y="188" width="37.6" height="24" rx="4" fill="#2d3142"/>
+<rect x="249.5" y="188" width="37.6" height="24" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+</g>
+<g data-reveal="5" data-era="era-5" data-start="2024-12" data-end="2025-06">
+<text x="40" y="234" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ERA 5</text>
+<text x="40" y="248" fill="#f5f5f5" font-size="10" font-family="'Geist', sans-serif" font-weight="600">Midnight Mirrors</text>
+<rect x="287.1" y="228" width="32.9" height="24" rx="4" fill="#2d3142"/>
+<rect x="287.1" y="228" width="32.9" height="24" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+</g>
+<line x1="40" y1="276" x2="320" y2="276" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="292" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+<rect x="40" y="302" width="16" height="8" rx="2" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+<text x="62" y="309" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">After biggest shift</text>
+<rect x="170" y="302" width="16" height="8" rx="2" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="192" y="309" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">Moderate-confidence start</text>
+<text x="40" y="328" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">Bar = era span. Label = artist with the largest share lift.</text>
+</svg>

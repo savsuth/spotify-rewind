@@ -1,0 +1,74 @@
+<svg viewBox="0 0 360 352" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="stayed-title stayed-desc" data-chart="stayed">
+<title id="stayed-title">Yearly top 10 membership</title>
+<desc id="stayed-desc">Grid-style timeline showing which years each of 6 artists ranked in the yearly top 10, with the rank printed.</desc>
+<rect width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">ARTIST</text>
+<text x="148" y="32" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">YEARLY RANK BY MINUTES</text>
+<text x="162" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">’22*</text>
+<text x="190" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">’23</text>
+<text x="218" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">’24</text>
+<text x="246" y="48" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">’25*</text>
+<g data-reveal="1" data-artist="Lunar Season">
+<text x="40" y="74" fill="#f08a59" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Lunar Season</text>
+<line x1="148" y1="70" x2="260" y2="70" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="60" width="108" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="60" width="108" height="20" rx="4" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+<text x="162" y="73.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="3">#3</text>
+<text x="190" y="73.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2023" data-rank="4">#4</text>
+<text x="218" y="73.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2024" data-rank="3">#3</text>
+<text x="246" y="73.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2025" data-rank="4">#4</text>
+</g>
+<g data-reveal="2" data-artist="Bright Arcade">
+<text x="40" y="110" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Bright Arcade</text>
+<line x1="148" y1="106" x2="260" y2="106" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="96" width="108" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="96" width="108" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="162" y="109.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="5">#5</text>
+<text x="190" y="109.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2023" data-rank="5">#5</text>
+<text x="218" y="109.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2024" data-rank="4">#4</text>
+<text x="246" y="109.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2025" data-rank="6">#6</text>
+</g>
+<g data-reveal="3" data-artist="Paper Orchard">
+<text x="40" y="146" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Paper Orchard</text>
+<line x1="148" y1="142" x2="260" y2="142" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="132" width="108" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="132" width="108" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="162" y="145.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="8">#8</text>
+<text x="190" y="145.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2023" data-rank="7">#7</text>
+<text x="218" y="145.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2024" data-rank="7">#7</text>
+<text x="246" y="145.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2025" data-rank="7">#7</text>
+</g>
+<g data-reveal="4" data-artist="Golden Echoes">
+<text x="40" y="182" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Golden Echoes</text>
+<line x1="148" y1="178" x2="260" y2="178" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="168" width="24" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="168" width="24" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<rect x="206" y="168" width="24" height="20" rx="4" fill="#2d3142"/>
+<rect x="206" y="168" width="24" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="162" y="181.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="4">#4</text>
+<text x="218" y="181.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2024" data-rank="1">#1</text>
+</g>
+<g data-reveal="5" data-artist="Neon Season">
+<text x="40" y="218" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Neon Season</text>
+<line x1="148" y1="214" x2="260" y2="214" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="204" width="52" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="204" width="52" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="162" y="217.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="7">#7</text>
+<text x="190" y="217.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2023" data-rank="1">#1</text>
+</g>
+<g data-reveal="6" data-artist="Neon Rivers">
+<text x="40" y="254" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600">Neon Rivers</text>
+<line x1="148" y1="250" x2="260" y2="250" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<rect x="150" y="240" width="52" height="20" rx="4" fill="#2d3142"/>
+<rect x="150" y="240" width="52" height="20" rx="4" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="162" y="253.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2022" data-rank="10">#10</text>
+<text x="190" y="253.5" fill="#f5f5f5" font-size="9" font-family="'Geist Mono', monospace" text-anchor="middle" data-year="2023" data-rank="3">#3</text>
+</g>
+<line x1="40" y1="288" x2="320" y2="288" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="304" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+<rect x="40" y="314" width="16" height="8" rx="2" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+<text x="62" y="321" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">Featured artist</text>
+<rect x="160" y="314" width="16" height="8" rx="2" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="182" y="321" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">In the top 10 that year</text>
+<text x="40" y="340" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">Rank by minutes within each year. * partial year.</text>
+</svg>

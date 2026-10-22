@@ -1,0 +1,47 @@
+<svg viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="minutes-by-year-title minutes-by-year-desc" data-chart="minutes-by-year">
+<title id="minutes-by-year-title">Music minutes per covered day, by year</title>
+<desc id="minutes-by-year-desc">Bar chart of average music minutes per covered day for each year from 2022 to 2025. 2022 and 2025 are partial years.</desc>
+<rect width="100%" height="100%" fill="#2d3142"/>
+<text x="40" y="36" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.14em">MIN / DAY</text>
+<line x1="88.0" y1="48" x2="88.0" y2="184" stroke="rgba(245,245,245,0.2)" stroke-width="1"/>
+<text x="88" y="198" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">0</text>
+<line x1="134.0" y1="48" x2="134.0" y2="184" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="134" y="198" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">20</text>
+<line x1="180.0" y1="48" x2="180.0" y2="184" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="180" y="198" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">40</text>
+<line x1="226.0" y1="48" x2="226.0" y2="184" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="226" y="198" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">60</text>
+<line x1="272.0" y1="48" x2="272.0" y2="184" stroke="rgba(245,245,245,0.08)" stroke-width="0.8"/>
+<text x="272" y="198" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" text-anchor="middle">80</text>
+<g data-reveal="1" data-bar="2022" data-value="70.2">
+<text x="80" y="70" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">2022*</text>
+<rect x="88" y="56" width="161.5" height="20" fill="#2d3142"/>
+<rect x="88" y="56" width="161.5" height="20" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="255.46" y="70" fill="#bfc0c0" font-size="9" font-family="'Geist Mono', monospace">70.2</text>
+</g>
+<g data-reveal="2" data-bar="2023" data-value="75.1">
+<text x="80" y="102" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">2023</text>
+<rect x="88" y="88" width="172.7" height="20" fill="#2d3142"/>
+<rect x="88" y="88" width="172.7" height="20" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+<text x="266.73" y="102" fill="#f08a59" font-size="9" font-family="'Geist Mono', monospace">75.1</text>
+</g>
+<g data-reveal="3" data-bar="2024" data-value="70.2">
+<text x="80" y="134" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">2024</text>
+<rect x="88" y="120" width="161.5" height="20" fill="#2d3142"/>
+<rect x="88" y="120" width="161.5" height="20" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="255.46" y="134" fill="#bfc0c0" font-size="9" font-family="'Geist Mono', monospace">70.2</text>
+</g>
+<g data-reveal="4" data-bar="2025" data-value="70.0">
+<text x="80" y="166" fill="#f5f5f5" font-size="11" font-family="'Geist', sans-serif" font-weight="600" text-anchor="end">2025*</text>
+<rect x="88" y="152" width="161.0" height="20" fill="#2d3142"/>
+<rect x="88" y="152" width="161.0" height="20" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="255" y="166" fill="#bfc0c0" font-size="9" font-family="'Geist Mono', monospace">70</text>
+</g>
+<line x1="40" y1="216" x2="320" y2="216" stroke="rgba(245,245,245,0.1)" stroke-width="0.8"/>
+<text x="40" y="232" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace" letter-spacing="0.18em">LEGEND</text>
+<rect x="40" y="242" width="16" height="8" fill="rgba(240,138,89,0.14)" stroke="#f08a59" stroke-width="1"/>
+<text x="62" y="249" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">Highest year</text>
+<rect x="160" y="242" width="16" height="8" fill="rgba(191,192,192,0.15)" stroke="#bfc0c0" stroke-width="1"/>
+<text x="182" y="249" fill="#bfc0c0" font-size="8.5" font-family="'Geist', sans-serif">Other years</text>
+<text x="40" y="268" fill="#bfc0c0" font-size="8" font-family="'Geist Mono', monospace">Minutes / covered days. * partial year.</text>
+</svg>
