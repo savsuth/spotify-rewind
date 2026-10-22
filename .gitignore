@@ -1,0 +1,17 @@
+# Personal listening data and everything derived from it: never commit.
+Spotify Extended Streaming History/
+Spotify Technical Log Information/
+work/
+outputs/
+web/data/
+
+# Build products (regenerate with: python3 -m rewind demo)
+dist/
+build/
+*.egg-info/
+
+# Local tooling
+__pycache__/
+.DS_Store
+.claude/
+procedure.md

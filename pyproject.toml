@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spotify-rewind"
+version = "1.0.0"
+description = "Turn a Spotify extended streaming history export into a Wrapped-style story with change-point detected musical eras."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pandas==2.3.3", "numpy==2.5.3"]
+
+[project.scripts]
+rewind = "rewind.__main__:main"
+
+[tool.setuptools]
+# The story player (web/) ships as package data so an installed `rewind build --out`
+# can write a complete site. Generated data under web/data is not included.
+packages = ["rewind", "rewind_site"]
+package-dir = { "rewind_site" = "web" }
+
+[tool.setuptools.package-data]
+rewind_site = ["index.html", "styles.css", "js/*.js"]
